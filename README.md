@@ -27,7 +27,7 @@ This project is a **Financial Data Dashboard** that retrieves and visualizes fin
 ## 🔧 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOURUSERNAME/financial-dashboard.git
+git clone https://github.com/YOURUSERNAME/financial-data-dashboard.git
 cd financial-dashboard
 ```
 
