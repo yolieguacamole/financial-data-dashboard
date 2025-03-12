@@ -1,4 +1,3 @@
-# financial-data-dashboard
 # 📊 Financial Data Dashboard
 
 ## 📌 Project Overview
